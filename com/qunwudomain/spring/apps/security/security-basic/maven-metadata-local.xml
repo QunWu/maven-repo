@@ -3,10 +3,11 @@
   <groupId>com.qunwudomain.spring.apps.security</groupId>
   <artifactId>security-basic</artifactId>
   <versioning>
-    <release>1.0.0</release>
+    <release>1.1.0</release>
     <versions>
       <version>1.0.0</version>
+      <version>1.1.0</version>
     </versions>
-    <lastUpdated>20190822171119</lastUpdated>
+    <lastUpdated>20190906053009</lastUpdated>
   </versioning>
 </metadata>
