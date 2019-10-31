@@ -3,7 +3,7 @@
   <groupId>com.qunwudomain.spring.apps.lib</groupId>
   <artifactId>lib-entities</artifactId>
   <versioning>
-    <release>1.3.13</release>
+    <release>1.3.14</release>
     <versions>
       <version>1.0.0</version>
       <version>1.1.0</version>
@@ -29,7 +29,8 @@
       <version>1.3.11</version>
       <version>1.3.12</version>
       <version>1.3.13</version>
+      <version>1.3.14</version>
     </versions>
-    <lastUpdated>20191030063122</lastUpdated>
+    <lastUpdated>20191031053223</lastUpdated>
   </versioning>
 </metadata>
